@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:F.\lxy\TrafficClient\app\libs\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

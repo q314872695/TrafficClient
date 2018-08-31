@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\android Studio progrom\\2018shengsai\\TrafficClient\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\android Studio progrom\\2018shengsai\\TrafficClient\\TrafficClient\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\lxy\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\lxy\\TrafficClient\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\TrafficClient\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
